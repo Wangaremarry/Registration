@@ -1,0 +1,23 @@
+{
+  "name": "Nuru",
+  "version": "1.0.0",
+  "description": "All children and women have a right to health care access, regardless of their income, who they are, or where they live. The number of women giving birth is increasing by the day. However, under 5 mortality which is mainly caused by preventable causes is still a challenge in Kenya. Nuru targets mothers and parents of children under 5 years and aims to improve healthcare services by sending SMS to parents for vaccinations, clinic visits and appointments. Through the Nuru platform, an automated SMS reminder will be sent to each specific caregiver to enable them to keep their children safe from preventable causes twice a week and on the day of the appointment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akirachix/Nuru.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akirachix/Nuru/issues"
+  },
+  "homepage": "https://github.com/akirachix/Nuru#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

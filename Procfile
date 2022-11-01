@@ -1,0 +1,1 @@
+web: gunicorn nuruCare.wsgi --log-file -
